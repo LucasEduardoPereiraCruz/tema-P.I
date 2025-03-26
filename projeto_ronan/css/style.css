@@ -225,6 +225,7 @@ color: #1d3127;
     }
 }
   
+/*NewsLetter*/
 .newsletter{
     background: #b4c7cc;
     padding: 60px calc((100% - 960px) / 2);
@@ -237,16 +238,16 @@ color: #1d3127;
     margin: 0 10px;
 }
 
-.newsletter-info h1{
+.newsletter-info h2{
    font-size: 3em;
-   color:#a4a4a4;
+   color:#222222;
 }
 
 .newsletter-info p{
     font-size: 1.25em;
     font-style: italic;
     max-width: 230px;
-    color: #7c7c7c;
+    color: #1d3127;
     margin-bottom: 10px
 }
 
